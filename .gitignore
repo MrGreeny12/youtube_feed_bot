@@ -1,0 +1,40 @@
+# Thumbnails
+.idea/
+venv/
+env_prod/
+celerybeat*
+.env
+.pyc
+.swp
+*.swo
+*/static/*
+*.swp
+*.pyc
+*.xlsx
+*.email
+*.csv
+*.pdf
+*.whl
+*.bak
+*.dat
+*.dir
+*celerybeat*
+*/flower
+*.dump
+*.pem
+get-pip.py
+static/
+__pycache__/
+db.sqlite3
+main_db.db
+
+# Local log
+admin_panel/logs
+log/*
+logs/*
+
+# My apologies to pycharm users
+.vscode/
+
+keys/
+client_secret_google.json
